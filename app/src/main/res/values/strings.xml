@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">APP SI20B</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Pondok Pesantren</string>
+    <string name="nav_header_subtitle">Arya Firmansyah SI20B</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_mahasiswa">Mahasiswa</string>
+
+    <string-array name="daftar_fakultas">
+        <item>Ilmu Komputer</item>
+        <item>Bisnis dan Ilmu Sosial</item>
+    </string-array>
+
+    <string-array name="daftar_prodi">
+        <item>Sistem Informasi</item>
+        <item>Teknik Informasi</item>
+        <item>Informatika</item>
+        <item>Bisnis Digital</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LAB 3/AndroidStudioProjects/crud_aryafirmansyah/app/src/main/res/drawable/ic_mahasiswa_background.xml" value="0.1875" />
+        <entry key="..\:/Users/LAB 3/AndroidStudioProjects/crud_aryafirmansyah/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1875" />
+        <entry key="..\:/Users/LAB 3/AndroidStudioProjects/crud_aryafirmansyah/app/src/main/res/drawable/mahasiswa_background.xml" value="0.1875" />
+        <entry key="..\:/Users/LAB 3/AndroidStudioProjects/crud_aryafirmansyah/app/src/main/res/layout/activity_mahasiswa.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/LAB 3/AndroidStudioProjects/crud_aryafirmansyah/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/LAB 3/AndroidStudioProjects/crud_aryafirmansyah/app/src/main/res/layout/content_main.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/LAB 3/AndroidStudioProjects/crud_aryafirmansyah/app/src/main/res/menu/activity_main_drawer.xml" value="0.5" />
+        <entry key="..\:/Users/LAB 3/AndroidStudioProjects/crud_aryafirmansyah/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/LAB 3/AndroidStudioProjects/crud_aryafirmansyah/app/src/main/res/mipmap-anydpi-v26/icon_utama.xml" value="0.1" />
+        <entry key="..\:/Users/LAB 3/AndroidStudioProjects/crud_aryafirmansyah/crud_aryafirmansyah/app/src/main/res/layout/activity_mahasiswa.xml" value="0.43798882681564244" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

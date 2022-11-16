@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "731191479105",
+    "firebase_url": "https://crud20sa2087-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "crud20sa2087",
+    "storage_bucket": "crud20sa2087.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731191479105:android:a04534dd7eee14dcdd6fc0",
+        "android_client_info": {
+          "package_name": "com.pmo.crud_aryafirmansyah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731191479105-b8dj1lisr33t7ut1lg1iabqkfkgsgbj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjLxIIgJ5N9AUCJXj2LJMnZJ8_UDb4lz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731191479105-b8dj1lisr33t7ut1lg1iabqkfkgsgbj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
